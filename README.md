@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Rawat</h1>
 <h3 align="center">A Sophomore from Graphic Era University Dehradun</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS** and is interested in **Competitive Programming**
 
 - 📫 How to reach me **rishurawat1703@gmail.com**
 
