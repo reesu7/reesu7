@@ -15,6 +15,8 @@ test: $(TARGET)
 	@./$(TARGET) < test3.txt
 	@echo "Running Test 4 (Expected: 1):"
 	@./$(TARGET) < test4.txt
+	@echo "Running Test 5 (Expected: 10):"
+	@./$(TARGET) < test5.txt
 
 clean:
 	rm -f $(TARGET)
