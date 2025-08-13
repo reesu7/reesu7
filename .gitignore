@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+*.exe
+competitive-programming/gerald-labyrinth/gerald_labyrinth
+
+# Temporary files
+.DS_Store
+*~
+*.swp
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.iml
